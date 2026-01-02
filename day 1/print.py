@@ -1,0 +1,7 @@
+print(" Hello World")
+print(" reva bhalodia ")
+print("i am 20 years old.")
+print("I am an undergraduate student studying in ycce ")
+print("today is new year 2026", "i hope this year treats me well")
+print(9)
+print(9+23)
