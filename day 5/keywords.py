@@ -8,7 +8,7 @@ while i <= 5:
 
 print("end of loop.")
 
-#continue = current iteration ko terminate 
+#continue = current ko skip kartna h like skip
 i = 0
 while i <= 6:
     if(i == 3):
@@ -16,3 +16,4 @@ while i <= 6:
         continue
     print(i)
     i += 1
+
