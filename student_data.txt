@@ -1,0 +1,14 @@
+Name: rico
+Roll No: 9
+Marks: [89, 99, 97, 70, 50]
+Total: 405
+Percentage: 81.0
+Grade: A
+-------------------------
+Name: eva
+Roll No: 1
+Marks: [99, 89, 87, 58, 89]
+Total: 422
+Percentage: 84.4
+Grade: A
+-------------------------

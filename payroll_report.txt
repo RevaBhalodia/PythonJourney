@@ -1,0 +1,6 @@
+Payroll Report
+-----------------
+Name: Amit, Salary: 60000
+Name: Neha, Salary: 75000
+
+Total Employees: 2

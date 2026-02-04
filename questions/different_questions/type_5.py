@@ -44,3 +44,5 @@ class Student:
             return "Fail"
 s = Student(80, 70, 75)
 print("Grade:", s.get_grade())
+
+

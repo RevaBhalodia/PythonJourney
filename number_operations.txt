@@ -1,0 +1,1 @@
+Prime check of 3: True

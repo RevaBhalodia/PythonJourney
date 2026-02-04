@@ -29,3 +29,6 @@ keys = ["a", "b", "c"]
 values = [1, 2, 3]
 
 print(lists_to_dict(keys, values))
+
+
+# 3
