@@ -1,3 +1,4 @@
+#Sum of its digits raised to their respective positions = the number itself.
 num = int(input("Enter a number: "))
 
 temp = num
